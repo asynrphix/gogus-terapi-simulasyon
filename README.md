@@ -77,13 +77,3 @@ flutter run
 ```
 
 > Flutter SDK 3.x ve Dart 3.x gerektirir.
-
----
-
-## 👩‍💻 Geliştirici
-
-**Ayşenur Aslan**  
-Bilgisayar Mühendisliği — Selçuk Üniversitesi  
-[github.com/asynrphix](https://github.com/asynrphix) · [LinkedIn](https://www.linkedin.com/in/aysenur-aslan-abba59411/)
-
-
