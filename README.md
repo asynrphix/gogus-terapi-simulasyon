@@ -84,6 +84,6 @@ flutter run
 
 **Ayşenur Aslan**  
 Bilgisayar Mühendisliği — Selçuk Üniversitesi  
-[github.com/asynrphix](https://github.com/asynrphix) · [LinkedIn](https://linkedin.com/in/aysenur-aslan-125792253)
+[github.com/asynrphix](https://github.com/asynrphix) · [LinkedIn](https://www.linkedin.com/in/aysenur-aslan-abba59411/)
 
-> Bu proje Hamle Mühendislik (Kocaeli Bilişim Vadisi) bünyesinde staj kapsamında geliştirilmiştir.
+
